@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Proxmox Virtual Machine
+Comment=Proxmox Virtual Machine - Remote Access
+Exec="/usr/local/bin/proxmox-vm.sh"
+Terminal=false
+Categories=System
